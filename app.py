@@ -77,7 +77,7 @@ def ui():
 
         with gr.Row():
             with gr.Column():
-                video_input = gr.Video(label="Upload Video")
+                video_input = gr.File(label="Upload Video")
                 run_btn = gr.Button("Process Video")
                 with gr.Accordion('🎥 Video Settings', open=False):
                     silence_value = gr.Number(label="Keep Silence Upto (In seconds)", value=0.2)
