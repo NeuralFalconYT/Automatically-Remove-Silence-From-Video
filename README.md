@@ -1,8 +1,8 @@
 
 # 🎬 Remove Silence From Video  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Remove-Silence-From-Video/blob/main/Remove_Silence_From_Video.ipynb) <br>
-[![HuggingFace Space Demo](https://img.shields.io/badge/🤗-Space%20demo-yellow)](https://huggingface.co/spaces/NeuralFalcon/Remove-Silence-From-Video)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Remove-Silence-From-Video/blob/main/Automatically_Remove_Silence_From_Video.ipynb) <br>
+[![HuggingFace Space Demo](https://img.shields.io/badge/🤗-Space%20demo-yellow)](https://huggingface.co/spaces/NeuralFalcon/Automatically-Remove-Silence-From-Video)
 
 This tool automatically removes silent parts from your videos.  
 It works best on your **local system**.  
