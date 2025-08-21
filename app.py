@@ -72,7 +72,7 @@ import gradio as gr
 
 def ui():
     with gr.Blocks(title="Remove Silence From Video") as demo:
-        gr.Markdown("## 🎬 Remove Silence From Video")
+        gr.Markdown("## 🎬 Automatically Remove Silence From Video")
         gr.Markdown("Upload an .mp4 video, and silent parts will be removed automatically.")
 
         with gr.Row():
