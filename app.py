@@ -71,7 +71,7 @@ After Removing Silences:  {output_duration[0]} Hour {output_duration[1]} Minute 
 import gradio as gr
 
 def ui():
-    with gr.Blocks(title="Remove Silence From Video") as demo:
+    with gr.Blocks(title="Automatically Remove Silence From Video") as demo:
         gr.Markdown("## 🎬 Automatically Remove Silence From Video")
         gr.Markdown("Upload an .mp4 video, and silent parts will be removed automatically.")
 
